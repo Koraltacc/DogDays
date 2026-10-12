@@ -72,3 +72,5 @@ not on the list: UGA's policies and public data do not allow it.
   are diffed against `main`), plus the destructive-SQL gate.
 
 The repository is licensed under the [BSD 3-Clause License](LICENSE).
+
+THE CHANGE
